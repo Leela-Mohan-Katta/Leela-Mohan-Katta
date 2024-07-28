@@ -2,7 +2,7 @@
 - 👀 I’m interested in java,j2ee,spring,rest api
 - 🌱 I’m currently learning spring
 - 💞️ I’m looking to collaborate on web development applications
-- 📫 How to reach me ...
+
 
 
 <!---
